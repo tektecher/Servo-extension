@@ -55,7 +55,7 @@ Blockly.defineBlocksWithJsonArray(
   "nextStatement": null,
   "colour": "#0271D9",
   "tooltip": "",
-  "helpUrl": ""
+  "helpUrl": "" 
 },
 {
     "type": "Bigservo",
@@ -113,6 +113,6 @@ Blockly.defineBlocksWithJsonArray(
     "nextStatement": null,
     "colour": "#0271D9",
     "tooltip": "",
-    "helpUrl": ""
+    "helpUrl": "" 
   }]
 );

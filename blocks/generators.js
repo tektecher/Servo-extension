@@ -18,3 +18,5 @@ Blockly.Python['Bigservo'] = function(block) {
   var code = `PWM(Pin(${value_pin}), freq=100).duty(int(25.57 + (((${value_angle}) / 180.0) * 102.3)))\n`;
   return code;
 };
+
+
