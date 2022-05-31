@@ -56,7 +56,8 @@ Blockly.defineBlocksWithJsonArray(
   "colour": "#0271D9",
   "tooltip": "",
   "helpUrl": "",
-  
+},
+{
 "type": "Bigservo",
   "message0": "Big Servo pin %1 set angle %2 °",
   "args0": [
