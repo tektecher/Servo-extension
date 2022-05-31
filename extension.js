@@ -22,6 +22,22 @@
                     </value>
                 </block>
             `
-        }
+        },
+        {
+            xml: `
+                <block type="Bigservo">
+                    <value name="pin">
+                        <shadow type="math_number">
+                            <field name="NUM">14</field>
+                        </shadow>
+                    </value>
+                    <value name="angle">
+                        <shadow type="math_number">
+                            <field name="NUM">180</field>
+                        </shadow>
+                    </value>
+                </block>
+            `
+        }        
     ]
 });

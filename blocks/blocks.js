@@ -59,7 +59,7 @@ Blockly.defineBlocksWithJsonArray(
 },
 {
     "type": "Bigservo",
-    "message0": "Servo pin %1 set angle %2 °",
+    "message0": "Big Servo pin %1 set angle %2 °",
     "args0": [
       {
         "type": "field_dropdown",
